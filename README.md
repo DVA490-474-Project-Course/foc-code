@@ -50,11 +50,26 @@ git clone https://github.com/DVA490-474-Project-Course/foc_code.git
         2. Num. Motors: 1 Motor
         3. Driving Algorithm: FOC
         4. Inverter
-        5. Please see the images below for a graphical explanation
-        ![General Info](../instructions_pictures/general_info.jpg)
+        5. Please see the image for visual explanation
+        6. <img src="instruction_pictures/general_info.jpg" alt="General Info" width="300" height="200">
+        
+
     2. Under 'Motors' select a motor that is similar to the Nanotec DF45L024048-A
-    3. asdf
-    4. asdf
+        1. <img src="instruction_pictures/Motors.jpg" alt="Motors" width="300" height="200">
+    4. Under the 'Inverter* tab select B-G431B-ESC1
+        1. <img src="instruction_pictures/Inverter.jpg" alt="Inverter" width="300" height="200">
+    5. Once you've completed all the steps above click okay
+2. In the next window called 'Project Steps' select the 'Application Configuration' tab, check the box for 'Motor Profiler' and click okay
+    1. <img src="instruction_pictures/user_interface.jpg" alt="Applicaton Configuration" width="300" height="200">
+3. Click Generate the project - you will be asked to save the project as well.
+    1. <img src="instruction_pictures/generate_the_project.jpg" alt="Generate the project" width="300" height="200">
+4. A pop-up window will emerge, make sure that all the settings are the same as in the image below (in the extent that it is possible.)
+    1. <img src="instruction_pictures/generate_the_code.jpg" alt="Generate the code" width="300" height="200">
+    2. Once it has completed click 'CLICK STM32CubeMX'
+    3. <img src="instruction_pictures/run_stm32cubemx.jpg" alt="RUN STM32CubeMX" width="300" height="200">
+
+        
+       
     
 
 -----------------------
