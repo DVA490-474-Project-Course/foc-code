@@ -65,8 +65,12 @@ git clone https://github.com/DVA490-474-Project-Course/foc_code.git
     1. <img src="instruction_pictures/generate_the_project.jpg" alt="Generate the project" width="300" height="200">
 4. A pop-up window will emerge, make sure that all the settings are the same as in the image below (in the extent that it is possible.)
     1. <img src="instruction_pictures/generate_the_code.jpg" alt="Generate the code" width="300" height="200">
-    2. Once it has completed click 'CLICK STM32CubeMX'
+    2. Once it has completed click 'RUN STM32CubeMX'
     3. <img src="instruction_pictures/run_stm32cubemx.jpg" alt="RUN STM32CubeMX" width="300" height="200">
+5. Once STM32CubeMX has launched go to 'Pinout & Configuration' tab and select connectivity. Make sure that the settings for USART2 are the same as in the picture below.
+    1. <img src="instruction_pictures/pinout_&_configuration_connectivity.jpg" alt="Pinout & Configuration - Connectivity" width="300" height="200">
+6. Go to 'Project Manager' and in the first tab 'Project' make sure that the option 'Toolchain / IDE' is set to STM32CubeIDE, as seen in the picture (and highlighted with a red arrow).
+    1. <img src="instruction_pictures/stm32cubemx_project_manager_project.jpg" alt="Project Manager - Project" width="300" height="200">
 
         
        
