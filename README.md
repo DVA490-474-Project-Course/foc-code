@@ -66,10 +66,6 @@ git clone https://github.com/DVA490-474-Project-Course/foc_code.git
 6. Go to 'Project Manager' and in the first tab 'Project' make sure that the option 'Toolchain / IDE' is set to STM32CubeIDE, as seen in the picture (and highlighted with a red arrow).
     1. <img src="instruction_pictures/stm32cubemx_project_manager_project.jpg" alt="Project Manager - Project" width="300" height="200">
 
-        
-       
-    
-
 -----------------------
 
 Roadmap
