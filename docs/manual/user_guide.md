@@ -34,9 +34,9 @@ git clone https://github.com/DVA490-474-Project-Course/foc_code.git
         
 
     2. Under *Motors* select a motor that is similar to the Nanotec DF45L024048-A
-        1. <img src="/instruction_pictures/Motors.jpg" alt="Motors" width="300" height="200">
+        1. <img src="/instruction_pictures/motors.jpg" alt="Motors" width="300" height="200">
     4. Under the *Inverter* tab select B-G431B-ESC1
-        1. <img src="/instruction_pictures/Inverter.jpg" alt="Inverter" width="300" height="200">
+        1. <img src="/instruction_pictures/inverter.jpg" alt="Inverter" width="300" height="200">
     5. Once you've completed all the steps above click ok
 2. In the next window called *Project Steps* select the *Application Configuration* tab, check the box for 'Motor Profiler' and click ok
     1. <img src="/instruction_pictures/user_interface.jpg" alt="Application Configuration" width="300" height="200">
