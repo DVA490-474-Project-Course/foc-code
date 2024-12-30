@@ -9,7 +9,7 @@ When using the software provided by STM which supports their MCUs a lot of funct
 
 About
 -----------------------
-This repository contains the code running on the ESC for controlling the motors using FOC.
+This repository contains the code running on the ESC for controlling the wheel motors using FOC.
 
 ## Built with
 The following tools were used to generate and modify the code for FOC:
